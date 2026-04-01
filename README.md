@@ -13,7 +13,7 @@
 ## 🚀 Sobre este Repositorio
 
 Este repositorio contiene los trabajos, ejercicios y el proyecto final integrador del curso de **Machine Learning** dictado por **Talento Tech** en la Ciudad de Buenos Aires. 
-El trayecto formativo se enfoca en el ciclo completo de un proyecto de aprendizaje automático, desde la preparación de datos hasta la implementación de modelos predictivos[cite: 32].
+El trayecto formativo se enfoca en el ciclo completo de un proyecto de aprendizaje automático, desde la preparación de datos hasta la implementación de modelos predictivos.
 
 ### 🎓 Certificación
 Al finalizar, este trayecto otorga una **microcredencial oficial** del Ministerio de Educación de la Ciudad de Buenos Aires.
